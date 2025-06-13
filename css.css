@@ -1,0 +1,23 @@
+body
+{
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff5f7;
+    color: #333;
+    text-align: center;
+    padding: 2rem;
+}
+
+header {
+    font-size: 2rem;
+    background-color: #ffcce0;
+    padding: 1rem;
+}
+
+.section {
+    margin: 2rem 0;
+}
+
+ul {
+    list-style-type: heart;
+    font-size: 1.1rem;
+}
